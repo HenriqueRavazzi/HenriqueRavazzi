@@ -1,9 +1,9 @@
 ## Hello there!
 
 <div>
-  <a href="https://github.com/Verbinen">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Verbinen&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Verbinen&layout=compact&langs_count=7&theme=github_dark"/>
+  <a href="https://github.com/HenriqueRavazzi">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=HenriqueRavazzi&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueRavazzi&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
